@@ -1,0 +1,60 @@
+  .card-watch{
+     margin-top: -10vh; 
+     
+     
+            
+}   
+.btn-col{
+    background-color:rgba(93, 169, 233, 1);
+    border: none;
+    border-radius: 40px;
+    height: 56px;
+     width: 80%;
+     padding: 2%;
+    
+
+} 
+ .bi{
+    /* margin-left: 37%; */
+padding: 8px;
+width: 40px;
+height: 40px;
+border-radius: 30px;
+text-align: center;
+
+
+
+
+} 
+ 
+   @media only screen and (max-width:768px) {
+    
+  .card-watch{
+    margin-top: 5%;
+  }
+}
+
+
+@media screen and (max-width:425) {
+  .b1{
+    margin-top: -20%;
+  }
+
+
+  
+}
+
+
+@media screen and (max-width:320px) {
+.card-watch{
+  margin-left: 2%;
+}
+  
+}
+
+.paragraph{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
